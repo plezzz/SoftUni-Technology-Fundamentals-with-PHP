@@ -1,3 +1,3 @@
-Курс Technology Fundamentals with PHP in SoftUni January 2019
+Course Technology Fundamentals with PHP in SoftUni January 2019
 
-Всяка папка е именувана с името на лекцията и вътре са решените задачи и условието на задачите в docx файл.
+Each folder is named with the name of the lecture and inside are resolved tasks and conditional tasks in docx file.
